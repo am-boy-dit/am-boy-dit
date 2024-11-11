@@ -1,4 +1,4 @@
-👋 Hi, I’m Pasha, 23 y.o. (@am-boy-dit)👋  
+👋 Hi, I’m Pasha, 24 y.o. (@am-boy-dit)👋  
 👀 I’m interested in programming👀   
 🌱I’m currently learning C/C++🌱  
 ✨ I'm student of School_21 Moscow ✨  
