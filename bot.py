@@ -52,7 +52,7 @@ def website_come(message):
 
 @bot.message_handler(content_types=["text"]) # Тут ловим все текстовые сообщения от пользователя
 def send_from_guest(message): 
-    bot.send_message('758781211', message.text)
+    bot.send_message('********', message.text)
     bot.send_message(message.from_user.id, "Спасибо за бронь, менеджер подтвердит её в ближайшее рабочее время заведения (12:00-23:00)")
     bot.send_message(message.from_user.id, "Для повторного резерва нажмите /start или /reserve")
 # @bot.callback_query_handler(func=lambda call: True)
